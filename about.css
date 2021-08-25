@@ -53,9 +53,12 @@ body {
     font-size: 1.3rem;
     line-height: 1.5;
 }
+.description p1 {
+    color: #fff;
+}
 .about-me img{
     position: absolute;
-    left: 150%;
+    left: 80%;
     border: 3px solid #0a39a0;
     border-radius: 50%;
 }
